@@ -11,4 +11,5 @@ Campus Map
 - An app that provides an interactive map of the college campus, including locations of buildings, classrooms, and other facilities.
 
 Course Material Sharing
--An app that allows students to share and exchange course materials, such as textbooks, notes, and study guides.
+
+- An app that allows students to share and exchange course materials, such as textbooks, notes, and study guides.
