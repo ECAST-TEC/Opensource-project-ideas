@@ -3,6 +3,7 @@
 This repository contains the list of ideas for project that is to be implemented as the open source projects. This repo is mainly focused on idea for the open source projects. Here are list of ideas for open source project
 
 Ideas by [Abhinav Chalise](https://github.com/AC17dollars)
+
 Routine Management App
 - Takes teachers work hours, classes per day and week, availability (for part-timers) into account and spits out routine for all faculties
 
