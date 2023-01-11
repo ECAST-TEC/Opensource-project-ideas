@@ -13,3 +13,9 @@ Campus Map
 Course Material Sharing
 
 - An app that allows students to share and exchange course materials, such as textbooks, notes, and study guides.
+
+Idea by [Adamya Neupane](https://github.com/Addy-0001)
+
+Libraray management System
+
+- Taking the library of the campus to the web
